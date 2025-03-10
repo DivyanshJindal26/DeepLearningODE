@@ -1,3 +1,10 @@
+# Information
+
+- This is my assignment for deep learning method to solve the differential equation y = x and y = 121\*x.
+- I am using PyTorch for this.
+
+# Steps to run
+
 - Environment Name: `myenv`
 - Steps to run this
 
